@@ -1,4 +1,4 @@
-Laravel 5.2.x Pwned Validator
+Laravel 5.3.x Pwned Validator
 =============================
 
 Pwned Validator to extend Validation support with HIBP password lists. Secure your users by determining if the password is secure or comprimised.
