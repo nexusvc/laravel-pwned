@@ -20,7 +20,5 @@
         "psr-4": {
             "Nexusvc\\Pwned\\": "src/"
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
